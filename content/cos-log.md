@@ -1,4 +1,4 @@
-![[map_barovia_hills_player.jpg]]
+![[map_barovia_player_hills.jpg]]
 
 ---
 # DAY-00 (Setup)

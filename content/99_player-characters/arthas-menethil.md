@@ -23,10 +23,7 @@ tags:
 .
 .
 .
-.
-.
-.
-.
+
 
 > [!infobox] 📜 A Karakterív (Story Arc)
 > **MÚLT (A Trauma):**
