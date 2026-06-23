@@ -1,5 +1,6 @@
-# STRAHDOWDARK
-![[strahd-art_wide.jpg]]
+---
+title: Strahdowdark Campaign Hub
+---
+![[strahd-art_wide.jpeg]]
 
 [[cos-log]]
-
