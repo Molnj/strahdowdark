@@ -37,3 +37,40 @@ tags:
 - **SLEEP.**
 
 > [!important] LVL 4
+
+
+---
+# Rictavio Sus
+- Felébredtek egy izzasztó éjszaka után, mikor mindenki pánikolt, hogy páncélban nem aludhattok.
+- Kicsit nyomoztok **Rictavio** és a reggelije után, de elengeditek, miután Garaele nem tudja leszopkodni a kancáját, Drusellát.
+# Vargas Vallakovich
+- Kint épp a polgimester **Vargas Vallakovich** vonul el a démonkarú verőemberével **Izek Strazni**val és a katonáival.
+- Elé esik egy nő és esdekel, hogy engedjék el a fiát a börtönből.
+- Elutasítják és már vinnék őt is a böribe.
+- Ti lapítotok, de a helyi pap **Lucian** atya meggyőzi a bárót, hogy engedje el.
+# Blinsky Játékboltja
+>[!quote] Ha nem is izgi, nem is Blinsky!
+- Elindultok a St Andral katedrálisba.
+- Útba esik Gadof Blinsky játékboltja.
+- Bent Blinsky chillel a majmával **Picolo**val, akit Rictavio adott neki.
+- Vesztek egy fa hintalovat Arabellnek.
+- Észreveszitek, hogy van egy Ireenára hajazó baba a boltban.
+- Elvileg Vallakovich báró verőembere Izek rendeli rendszeresen.
+- Egy Mission Impossible heist során ellopjátok a babát.
+- Jutalom: Izek összeveri Blinskyt. Faolin és Arthas ad egy kis borravalót neki azért. :)
+# St Andral Katedrális
+- A katedrálisban találkoztok Lucian atyával.
+- Lerakjátok Ireenát megőrzésre.
+- Elmeséli, hogy eltűntek Szent Andral csontjai a katedrális alatti kriptákból.
+- Ha nem kerülnek meg, akkor a fesztivál napján múlva elmúlik a szent védelem a katedrálisról, mert akkor újította volna meg egy szent rituáléval a következő évre.
+
+>[!done] Hol vagytok Szent Andral csontjai!?
+>- Keressétek meg és vigyétek vissza a csontokat, mielőtt túl késő lenne!
+# Milvoj és Henrik
+- Nyomoztok egy sort, majd arra juttok, hogy **Milvoj** lehetett a ludas, a templomi mindenes fiú.
+- Felkeresitek a szegény negyedben, ahol az anyjával és vagy 8 tervérével él.
+- Kiderül, hogy pénzért csinálta a sok testvére miatt és elvezet titeket a rejtekhelyre
+- Az **Arasek Raktártelepen** vannak elrejtve a koporsókészítő **Henrik van der Voort** birtokában.
+- Felosontok az emeletre és megtaláljátok a ládát, amiben a csontok vannak.
+- A láda be van csapdázva egy Blinsky játékkal ami riasztja a vámpír csatlósokat.
+- Strahd egy menyasszonya is köztük van; **Volenta Popofskyt**.
