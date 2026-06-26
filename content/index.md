@@ -10,14 +10,8 @@ title: Campaign Hub
 ---
 - [[quest-log|Quest Log]]
 - [[next-session|Next Session]] -- https://strawpoll.com/GJn44mjamnz
-<<<<<<< Updated upstream
 
-<<<<<<< HEAD
-=======
-=======
->>>>>>> Stashed changes
 
->>>>>>> 9527de7 (merge fixes)
 # Day 00
 Közös filmezés és felkészülés a kampányra. Még nem tudtuk mi vár ránk.
 - [[cos-session-00]]
@@ -83,29 +77,11 @@ Gyógyulgatás Krezk falainál; A Borászat felszabadítása; **Vacsora Strahdda
 
 
 ---
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
-=======
->>>>>>> Stashed changes
->>>>>>> 9527de7 (merge fixes)
 # Next Session
 
 <iframe src="https://strawpoll.com/GJn44mjamnz" style="width: 100%; height: 600px; border: none;" allowfullscreen></iframe>
 
 ---
-<<<<<<< HEAD
->>>>>>> e2f9bf9 (Obsidian vault sync)
-=======
-<<<<<<< Updated upstream
-=======
->>>>>>> e2f9bf9 (Obsidian vault sync)
->>>>>>> Stashed changes
->>>>>>> 9527de7 (merge fixes)
 
 ## ----- SESSION-20 (2025.05.10.) -----
 ### Blight Trap
