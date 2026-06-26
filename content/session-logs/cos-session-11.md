@@ -7,10 +7,13 @@ tags:
 ![[map_sesh-11.jpg]]
 
 # Izek tombol
+
 - Mielőtt elmennétek a toronyba még kipihennétek a nap fáradalmait.
 - Reggel álmotokban Izek rátok robbantja az ajtót, Ireenát keresve, de nem találta és elment.
 - Urvin természetesen kárpótlásul felajánlotta, hogy ma este ingyen aludhattok nála.
+
 # Khazam tornya
+
 - Felkeresitek Szoldart, hogy akkor vezessen titeket az úton.
 - A kunyhójánál láttok egy mohás sziklát, belevésve egy **3 ágú csillag és egy pillangó**.
 - Fight: Úton a torony felé levertek pár madárijesztő stickmant.

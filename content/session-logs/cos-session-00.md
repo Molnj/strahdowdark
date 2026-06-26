@@ -5,12 +5,16 @@ tags:
 ---
 2023.04.15.   :')
 ![[map-sesh-01.png]]
+
 # Start
+
 - 6 Hónap **Mines of Phandelver** kampány után ideje új vizekre evezni. Vár **Barovia**!
 - Baroviában a jelenlegi év: **735 BC** (Barovi Calendarium)
 - Közös **DnD Honor Among Thieves** mozizás Miskolc Plázában (kino film).
 - **Aréna after**: Több órás meeting az életünk elkövetkező pár évét meghatározó kampányról.
+
 # Story Hook
+
 - Mindenkinek furcsa álmai vannak jóslatokról a sorsával kapcsolatban.
 - Egy nap 1-1 tarot kártyával mellettetek ébredtek különös látomás kíséretében.
 - Sorsotok kulcsa a rejtélyes **Madam Eva** kezében van.
@@ -26,3 +30,4 @@ tags:
 | Gólem      | Faolin           | Bard      | A 8-as Jelkép - A Pásztor     |
 
 > [!done] Quest: Zsa Threshold!
+

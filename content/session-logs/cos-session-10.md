@@ -7,6 +7,7 @@ tags:
 ![[map_sesh-10.jpg]]
 
 # Luvash & Arrigal
+
 - Vallaki mellett egy dombon táboroznak.
 	- A domb tetején egy nagy sátor, körülötte körben 10-15 szekér.
 	- A domb alján körben 7 kis faház, amiket sötét elfek őriznek.
@@ -19,7 +20,9 @@ tags:
 >[!done] Merre vagy Arabelle?
 >- Keressétek meg a lányt, cserébe kaptok fincsi lootot!
 >- Egy gyűrűt találtak a helyszínek, ami most az elfek vezetőjénél, Kasimirnál van.
+
 # Kasimir Velikov
+
 - A táborban felkeresitek a sötét elf **Kasimir Velikov**ot.
 	- Az itteni elfek vezetője, fejét csukja takarja.
 	- A jobb karja kékesen meg van zúzódva, mintha megfagyott volna kicsit
@@ -27,6 +30,7 @@ tags:
 	- A gyűrűn a varázslóiskolák jelei vannak egy cikcakkos vonallal összekötve
 	- Azt javasolja menjetek el Vallakovich báró könyvtárába, hátha találtok nyomot
 	- (vistaniak nem mehetnek a városba)
+
 >[!info] Lore: Sötét Elf történelem
 >- Kasimir egy 600 éves sötét elf, aki sokat tud az ország múltjáról.
 >- kb 500 éve Barov von Zarovich (Strahd apja) elfoglalta az egész baroviai völgyet
@@ -36,18 +40,23 @@ tags:
 >- Barov halála után a fia Strahd von Zarovich vette ár a hatalmat, aki ellen felkeltek, de leverte és alig 100 elf maradt életben
 >- A vistaniak fogadták be őket és azóta is velük élnek
 >- Strahd hatalomvágya kielégíthetetlen volt és egy éven belül elfoglalta az egész völgyet, birodalmát Baroviának keresztelve.
+
 # Könyvtár
+
 - Elmentek a hídhoz, ahol a dulakodás volt.
 	- 4 pár lábnyomot találtok és egy fej nélküli vistani testet, de más nyom nincs
 - Visszatértek Vallakiba, bejárni a könyvtárat
 - Vargas beenged titeket, de valamilyen szellemkísértési ügyet ki kell nyomozzatok cserébe
 - A szakácsné, **Tereska** elmondja, hogy sokan felmondtak, mert egy nő szellemét vélték látni
 - A könyvtárban találtok egy anyakönyvi papírt
+
 >[!note] Ireena Strazni
 >- Név: **Ireena Strazni** (18 éve eltűnt, akkor 4 évesen - valószínűleg farkasok ették meg.
 >- Szülők: **Grygori & Fatima Strazni** (akasztásos öngyilkosság, Ireena eltűnése után
 >- Testvér: **Izek Strazni**
+
 # Viktor
+
 - Ekkor belép a báró fia, **Victor Vallakovich**,
 	- Ép 1 könyvért jött: **Mordenkainen ősmágus - Éteri Entitások: A láthatatlan birodalom lakói**
 	- Kezében egy másik varázskönyv **Khazam** nevű mágustól.
@@ -60,12 +69,16 @@ tags:
 	- Viktor pár éve találta Khazam varázskönyvét és abból tanult mágiát.
 	- Stellával egy teleportációs körön dolgoztak, hogy elhagyhassák Baroviát.
 	- Nem sikerült és Stella lelke az éteri síkon maradt, egyre halványodva.
+
 >[!done] Quest: Zsa Khazam torony!
 >- Megkért, hogy menjetek el (Szoldar vezet) Khazam varázslótornyába (ha létezik)
 >- Elvileg ott lehet 1 varázsbotnak, ami megjelenik, ha a Khazam varázsszót kimondjátok.
 >- A jelek egyébként is elvezethetnek Arabellához, hiszen passzolnak a gyűrűhöz.
-- Ezután lezsírozzátok Szoldarral az útvezetést és mentek aludni
+
+- Ezután lezsírozzátok Szoldarral az útvezetést és mentek aludni.
+
 # Rahadin Bírálata
+
 - Este nagy felfordulást követően belovagol Rahadin a városba.
 - Az őrség elé vezeti Milvojt és Henriket.
 - Helyben ítélő tárgyalást ír ki azonnali ítélettel.

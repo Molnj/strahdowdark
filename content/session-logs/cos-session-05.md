@@ -45,5 +45,5 @@ tags:
 - Ezen felül kaptok 5 másik jövendölést is.
 - Végezetül leszedte rólatok az átkokat és Motyóról is egy _Scry_ spellt
 # Jóslatok
-- [[joslatok_kozos]]
-- [[joslatok_egyeni]]
+- [[_foretellings]]
+- [[_foretellings-personal]]

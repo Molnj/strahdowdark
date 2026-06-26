@@ -7,14 +7,18 @@ tags:
 ![[map_sesh-04.jpg]]
 
 > [!quote] Motyó hogy összement!
+
 # Barovia Temploma
+
 - Elhanyagolt deszkatemplom a Hajnal Urának szentelve a falu északi részén.
 - A templomhoz nagy temető tartozik, ide hoztátok Kolyan testét.
 - Egy kis deszkatemplomba léptek, ahol **Donavich** atyával taliztok.
 - Az atya elvégzi a temetőben a temetést és szentségek elmondását.
 - Közben Faolin bent egy titkos lejáratot talál egy szobában.
 - Itt Doruval, a láncra vert vámpír sarjjal találkozik.
+
 # Doru
+
 > [!info] Lore: Doru lázadó korszaka
 > - Doru Donavich fia
 > - Ismark és Ireena a barátai voltak. Ismarktól kardforgatást tanult
@@ -33,6 +37,7 @@ tags:
 >- Cserébe elmondja, hogy RvR-nek hol van elrejtve kincse.
 >- Megjelenik Strahd jobb keze, a sötét elf **Rahadin**. Kifejezi ura részvétét.
 >- Körülötte szenvedő lelkek könyörgésének és sikolyainak kakofóniája. Nagy tag.
+
 # Mad Mary háza
 - A városban él egy kissé megbolondult nő, **Mad Mary**, aki egyedül él.
 - Úgy tűnik Motyó Gertruda kutyája volt.

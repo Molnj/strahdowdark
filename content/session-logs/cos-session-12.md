@@ -7,13 +7,16 @@ tags:
 ![[map_sesh-12.jpg]]
 
 # Ezmeralda vagonja
+
 - A torony mellett volt egy másik vagon is, úgyhogy kerülgetitek úgy 2-3 órát.
 - Alul találtok egy titkos csapóajtón, amin át bementetek.
 - Bent teljesen felszerelve csapdákkal.
 - Beszéltetek a csirke **Tyúkmeralda**-val, aki elmondta, hogy ez a vagon "**Esmeralda d'Avenir**" tulajdona (**RvR** volt tanonca, egy vistani nő)
 - Visszafelé az úton belebotlotok két gyanús tagba, akik elvileg vadászok Krezkből.
 - Gyanúsak, de nem konfrontálódtok
+
 # SIR GODFREY GWYLIM
+
 - Ezüstős útba botlotok, amit idefelé nem vettetek észre.
 - Rátérve 1 óra mászás után egy szellem lovag ell elétek, de megtudva célotokat, továbbenged.
 - Elértetek egy hatalmas erődítményt, 10 méter magas sárkány szoborral előtte.
@@ -23,6 +26,7 @@ tags:
 	- A láncok az Ezüst Sárkányrendnek tett fogadalmából erednek.
 	- Nem mondhat ellen a parancsnokának **Vladimir Horngaard**nak.
 	- Ha lemondana az ellenszegülésről eltűnnének a láncai.
+
 > [!info] Lore: Lord Argynvostholt
 > - Szervezeti struktúra
 > 	- A lovagrendet több száz éve hozta létre egy **Argynvost** nevezetű paladin.
@@ -53,7 +57,9 @@ tags:
 > - Előfeltétel:
 > 	- Sok katona szelleme bolyong a falak közt, jobb lenne beépülni közéjük.
 > 	- Először ki kell ásni a volt csatatérről a rend páncéljait.
+
 # Esti utazás
+
 - Ezután rohantatok haza Vallakiba, már sötétedéskor, de egy raj denevérrel megúsztátok.
 - Vallakiba csak hajnalban engedtek át titeket a kapukon, a protokoll szerint.
 - Az estét a falakon kívül töltitek a baroviai menekültek közt.
@@ -61,9 +67,11 @@ tags:
 
 ---
 # Rictavio Reveal
+
 - Az estét a falakon kívül töltitek a baroviai menekültek közt, reggel beengednek Vallakiba.
 - A kocsmában megtaláljátok Rictavio-t.
 - Felfedi, hogy Arabella végig vele volt!
+
 > [!note] Lore: Arabelle megszöktetése
 > - A folyónál egy bokorban chillelt éppen.
 > - Ekkor látta, hogy egy vistani férfi át akarja adni a lányt **Escher**nek.
@@ -74,6 +82,7 @@ tags:
 > - Se nem időzhettek, mert túl egyértelmű búvóhely.
 > - **Amulet of Proof Against Detection and Location** amulettekkel tudnak Vallakiban rejtőzködni.
 > - **Hat of Disguise** kalappal felvette a Rictavio porondmester alakját és megfestette a kocsiját.
+
 - Kételkedtek a sztori igazságában.
 	- **Talisman of Echoes** segítségével beszédre bírtátok a levágott vistani fejet.
 	- Arabelle is megerősíti a sztorit.

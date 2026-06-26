@@ -7,6 +7,7 @@ tags:
 ![[map_sesh-06.jpg]]
 
 # Történetmesélés
+
 - Igaz/Hamis Sztorimesélő versenybe bocsátkoztok a tűznél pár vistanival (Elza & Arturi)
 
 > [!info] Elza meséje
@@ -48,8 +49,11 @@ tags:
 > 	- ...
 > - **Ymerlith**
 > 	- ...
+
 - **Ymerlith nyeri a tippeléseket**. LOOT: tükör teleszkópos rúdon, vérfarkas tutorial by RvR
+
 # Vérfarkas Tutorial
+
 > [!info] Lore: Lycantrófia (vérlények?) - TODO: RvR Guide kiegészítés
 > - Többféle lycantrófia létezik, de a farkas az egyik legveszedelmesebb.
 > - Kialakulásának 2 oka lehet:
@@ -69,4 +73,8 @@ tags:
 > - **Vérfarkasok**
 > 	- Farkas lycantrófia esetén az alter-ego mindig gonosz.
 > 	- Farkasfű-főzet megakadályozhatja 1 éjszakára az átalakulást teliholdkor.
+
 - **SLEEP.**
+
+*IDK, amúgy gyanús h ez nem egy külön session volt, de mindegy úgyse olvassa ezt senki. Ha esetleg mégis, akkor nyugtasson a tudat belülről, hogy jobb vagy, mint a többiek!*
+
