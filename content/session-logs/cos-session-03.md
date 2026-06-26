@@ -4,6 +4,8 @@ tags:
   - strahd
 ---
 2023.07.01.
+![[map_sesh-03.jpg]]
+
 # Baroviai síkság
 - Pár parasztházba futtok az úton, nem nagyon beszédesek a parasztok.
 - Egy farkas team Baroviáig (a falu) kerget, élükön 1 kisebb fekete farkassal.

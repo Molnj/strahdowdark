@@ -4,6 +4,8 @@ tags:
   - strahd
 ---
 2023.10.07.
+![[map_sesh-06.jpg]]
+
 # Történetmesélés
 - Igaz/Hamis Sztorimesélő versenybe bocsátkoztok a tűznél pár vistanival (Elza & Arturi)
 

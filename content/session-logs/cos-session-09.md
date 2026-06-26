@@ -4,6 +4,8 @@ tags:
   - strahd
 ---
 2023.01.20.
+![[map_sesh-09.jpg]]
+
 # Volenta Fight
 - Kicsit reworköltük az emeletet, hogy epikebb legyen az osonás, de az eredmény ugyanaz.
 - Egy maratoni csatában győzedelmeskedtek.

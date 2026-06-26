@@ -4,6 +4,8 @@ tags:
   - strahd
 ---
 2024.04.20.
+![[map_sesh-12.jpg]]
+
 # Ezmeralda vagonja
 - A torony mellett volt egy másik vagon is, úgyhogy kerülgetitek úgy 2-3 órát.
 - Alul találtok egy titkos csapóajtón, amin át bementetek.

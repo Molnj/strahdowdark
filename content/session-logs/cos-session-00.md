@@ -4,6 +4,7 @@ tags:
   - strahd
 ---
 2023.04.15.   :')
+![[map-sesh-01.png]]
 # Start
 - 6 Hónap **Mines of Phandelver** kampány után ideje új vizekre evezni. Vár **Barovia**!
 - Baroviában a jelenlegi év: **735 BC** (Barovi Calendarium)

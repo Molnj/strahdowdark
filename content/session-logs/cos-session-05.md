@@ -3,7 +3,8 @@ tags:
   - tg
   - strahd
 ---
-2023.09.09.
+![[map_sesh-05.jpg]]
+
 >[!bug] Disoz itt fadelt, never forgetti !
 # Baroviai Felderítők
 - Elindultok Ireenával Vallaki felé.

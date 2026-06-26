@@ -4,6 +4,8 @@ tags:
   - strahd
 ---
 2023.06.03.
+![[map_sesh-02.jpg]]
+
 # Death House Pince
 - Szarka süt pár epik burgert a teamnek az elkövetkezendő borzalmak előtt.
 - Legyőztök pár szellemet meg ghoult, földhözbasztok egy kristálygömböt.

@@ -1,4 +1,6 @@
 2023.10.28.
+![[map_sesh-07.jpg]]
+
 ![[svalich-woods.png]]
 # Kereskedés
 - Ha már itt vagytok sefteltek kicsit a vistaniakkal

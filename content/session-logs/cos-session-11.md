@@ -4,6 +4,8 @@ tags:
   - strahd
 ---
 2024.03.29.
+![[map_sesh-11.jpg]]
+
 # Izek tombol
 - Mielőtt elmennétek a toronyba még kipihennétek a nap fáradalmait.
 - Reggel álmotokban Izek rátok robbantja az ajtót, Ireenát keresve, de nem találta és elment.

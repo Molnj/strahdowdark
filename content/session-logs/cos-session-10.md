@@ -4,6 +4,8 @@ tags:
   - strahd
 ---
 2024.02.24.
+![[map_sesh-10.jpg]]
+
 # Luvash & Arrigal
 - Vallaki mellett egy dombon táboroznak.
 	- A domb tetején egy nagy sátor, körülötte körben 10-15 szekér.

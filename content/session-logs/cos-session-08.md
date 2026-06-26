@@ -4,6 +4,8 @@ tags:
   - strahd
 ---
 2024.12.27.
+![[map_sesh-08.jpg]]
+
 # Szikla Szentély
 - Az alvós fejleményen mindenki megakad és a parti visszavonulót fúj (karácsonyi csoda).
 - Ymerlith talál 4 hatalmas sziklákból kirakott félkör alakú szentélyt.

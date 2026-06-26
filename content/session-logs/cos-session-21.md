@@ -4,5 +4,5 @@ tags:
   - strahd
 ---
 x
-![[map_sesh-27.jpg]]
+![[map_sesh-21.jpg]]
 

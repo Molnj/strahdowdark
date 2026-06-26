@@ -4,6 +4,8 @@ tags:
   - strahd
 ---
 2023.08.12.
+![[map_sesh-04.jpg]]
+
 > [!quote] Motyó hogy összement!
 # Barovia Temploma
 - Elhanyagolt deszkatemplom a Hajnal Urának szentelve a falu északi részén.
