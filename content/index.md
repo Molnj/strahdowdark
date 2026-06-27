@@ -7,6 +7,17 @@ title: Campaign Hub
 
 ![[map_barovia_player_hills.jpg]]
 
+# Team
+
+| PC           | LVL | XP     |
+| ------------ | --- | ------ |
+| **Arthas**   | 6   | 0 / 70 |
+| **Blaidd**   | 6   | 0 / 70 |
+| **Faolin**   | 6   | 0 / 70 |
+| **Garaele**  | 6   | 0 / 70 |
+| **Ulduam**   | 6   | 0 / 70 |
+| **Ymerlith** | 6   | 0 / 70 |
+
 # INFO
 
 > [!info] Standard v5
@@ -17,7 +28,7 @@ title: Campaign Hub
 > - **19:00 - 20:00** : 1 h pihi
 > - **20:00 - 23:00** : 3 h game
 
-- Next Session: https://strawpoll.com/GJn44mjamnz
+- VOTE Next Session: https://strawpoll.com/GJn44mjamnz
 - [[quest-log|Quest Log]]
 - [[kajarendeles|Kajarendelés]]
 
@@ -25,8 +36,7 @@ title: Campaign Hub
 
 # SESSION LOG
 
-START: 2023.04.25.
-END: 2026.??.??.
+**START**: 2023.04.25.
 
 ## Day 00
 
@@ -56,6 +66,7 @@ Doru megkegyelmezése; Kolyan Indirovich (volt polgi) temetése; Rák side-quest
 - [[cos-session-05#Találkozás Strahddal|SESSION 05]] (folyt.)
 - [[cos-session-06|SESSION 06]]
  
+
 ## Day 04
 
 Út Vallakiba: Öreg Malom; Sunyi Bokor; és Vérfarkas a Zarovich-tónál.
@@ -138,6 +149,8 @@ Blaidd eltűnése; Krezk kárfelbecslése; Kirándulás az Apátságba; Markovia
 Pacsizás Blaiddal a farkasveremnél; Argynvostholt quest elkezdése
 
 [[cos-session-30|SESSION 30]] tbd
+
+**END**: 2026.??.??.
 
 %% 
 Ezt nem látjátok faszoskáim !
