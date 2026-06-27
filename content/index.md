@@ -9,14 +9,15 @@ title: Campaign Hub
 
 # Team
 
-| PC           | LVL | XP     |
-| ------------ | --- | ------ |
-| **Arthas**   | 6   | 0 / 70 |
-| **Blaidd**   | 6   | 0 / 70 |
-| **Faolin**   | 6   | 0 / 70 |
-| **Garaele**  | 6   | 0 / 70 |
-| **Ulduam**   | 6   | 0 / 70 |
-| **Ymerlith** | 6   | 0 / 70 |
+| **Player** | PC           | LVL | XP     |
+| ---------- | ------------ | --- | ------ |
+| Bohi       | **Arthas**   | 6   | 0 / 70 |
+| Disoz      | **Blaidd**   | ?   | NPC    |
+|            | **Plaidd**   | 6   | 0 / 70 |
+| Sparch     | **Faolin**   | 6   | 0 / 70 |
+| Adro       | **Garaele**  | 6   | 0 / 70 |
+| Dudu       | **Ulduam**   | 6   | 0 / 70 |
+| Gólem      | **Ymerlith** | 6   | 0 / 70 |
 
 # INFO
 
