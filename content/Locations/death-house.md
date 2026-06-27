@@ -3,6 +3,7 @@ tags:
   - tg
   - strahd
 ---
+
 # Death House (Durst Kúria)
 
 ![[death-house.png]]
@@ -23,13 +24,14 @@ tags:
 
 ## 💀 NPC Adatbázis
 
-| Név                                                      | Típus                 | Státusz              | Leírás / Szerep                                                                                                                         |
-| :------------------------------------------------------- | :-------------------- | :------------------- | :-------------------------------------------------------------------------------------------------------------------------------------- |
-| **Rose és Thorn Durst**<br>                              | Szellem / Gyermek     | Megmentve            | Gustav és Elisabeth gyermekei. A szüleik bezárták őket a szobájukba a rituálék alatt, ahol éhen haltak. A csapat feloldozta a lelküket. |
-| **Walter Durst**<br>![[Pasted image 20260627110129.png]] | Csecsemő / Szörnyeteg | Megmentve            | Gustav törvénytelen gyermeke a dadaistól. Elisabeth feláldozta a Sötét Erőknek; ő lett a pincében lévő Hússzörny (Flesh Mound) magja.   |
-| **Elisabeth Durst**                                      | Kultuszvezér          | Halott / Elkárhozott | A Durst család matriarchája. Férje hűtlensége után megőrült, és a Sötét Erők fanatikus imádatába taszította a házat.                    |
-| **Gustav Durst**                                         | Kultista              | Halott / Elkárhozott | A ház ura. Félrelépése indította el a tragédiasorozatot. Később bűntudatában felkötötte magát a pincében.                               |
-| **Motyó**                                                | Kutya                 | Él                   | A házban talált, elhagyatott kutya. A csapat hivatalosan is adoptálta. Jelenleg a csapat leghűségesebb társa.                           |
+| Név                                                   | Típus                 | Státusz              | Leírás / Szerep                                                                                                                         |
+| :---------------------------------------------------- | :-------------------- | :------------------- | :-------------------------------------------------------------------------------------------------------------------------------------- |
+| **Rose és Thorn Durst**<br>![[rose-es-thorn.png]]<br> | Szellem / Gyermek     | Megmentve            | Gustav és Elisabeth gyermekei. A szüleik bezárták őket a szobájukba a rituálék alatt, ahol éhen haltak. A csapat feloldozta a lelküket. |
+| **Walter Durst**<br>![[walter.png]]                   | Csecsemő / Szörnyeteg | Megmentve            | Gustav törvénytelen gyermeke a dadaistól. Elisabeth feláldozta a Sötét Erőknek; ő lett a pincében lévő Hússzörny (Flesh Mound) magja.   |
+| **Elisabeth Durst**                                   | Kultuszvezér          | Halott / Elkárhozott | A Durst család matriarchája. Férje hűtlensége után megőrült, és a Sötét Erők fanatikus imádatába taszította a házat.                    |
+| **Gustav Durst**                                      | Kultista              | Halott / Elkárhozott | A ház ura. Félrelépése indította el a tragédiasorozatot. Később bűntudatában felkötötte magát a pincében.                               |
+| **Motyó**                                             | Kutya                 | Él                   | A házban talált, elhagyatott kutya. A csapat hivatalosan is adoptálta. Jelenleg a csapat leghűségesebb társa.                           |
+
 ![[durst-family.png]]
 
 ---
