@@ -17,7 +17,7 @@ title: Campaign Hub
 | Sparch     | **Faolin**   | 6   | 25 / 70 |
 | Adro       | **Garaele**  | 6   | 25 / 70 |
 | Dudu       | **Ulduam**   | 6   | 25 / 70 |
-| Gólem      | **Ymerlith** | 6   | 40 / 70 |
+| Gólem      | **Ymerlith** | 6   | 44 / 70 |
 
 # INFO
 
