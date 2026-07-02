@@ -1,22 +1,23 @@
 #!/bin/bash
 
 VAULT_DIR="/home/mate/Documents/60_ttrpg/61_active-campaigns/strahdowdark/public_quartz/"
-QUARTZ_DIR="./content/"
+QUARTZ_DIR="/home/mate/Git/strahdowdark/content/"
 
 mkdir -p "$QUARTZ_DIR"
+
+# 1. Move into the Quartz directory so Git knows what to do
+cd "$QUARTZ_ROOT" || { echo "Failed to find Quartz directory."; exit 1; }
 
 echo "1. Pulling latest changes from GitHub..."
 git pull origin main --rebase
 
 echo "2. Syncing collaborator changes back to Obsidian Vault..."
-# We do this FIRST so we don't accidentally overwrite their new stuff.
-# We don't use --delete here, so we don't accidentally delete your local drafts.
-rsync -av "$QUARTZ_DIR" "$VAULT_DIR"
+# Added -u! Only copies files from Quartz to Vault if they are NEWER.
+rsync -avu "$QUARTZ_DIR" "$VAULT_DIR"
 
 echo "3. Syncing your local changes to Quartz..."
-# Now we sync your Vault into Quartz. 
-# --delete ensures if you deleted a file in Obsidian, it deletes in Quartz.
-rsync -av --delete "$VAULT_DIR" "$QUARTZ_DIR"
+# Added -u! Only copies files from Vault to Quartz if they are NEWER.
+rsync -avu --delete "$VAULT_DIR" "$QUARTZ_DIR"
 
 echo "4. Pushing to GitHub..."
 git add -A

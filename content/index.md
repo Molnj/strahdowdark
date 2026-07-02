@@ -1,25 +1,27 @@
 ---
 title: Campaign Hub
 ---
-⭐ **Next Session:** 2026.07.18. ⭐
+⭐⭐⭐⭐⭐ **Next Session:** 2026.07.18. ⭐⭐⭐⭐⭐⭐
 
 ![[strahd-art_wide.jpeg]]
 
 ![[map_barovia_player_hills.jpg]]
 
-# Team
-
-| **Player** | PC           | LVL | XP      |
-| ---------- | ------------ | --- | ------- |
-| Bohi       | **Arthas**   | 6   | 40 / 70 |
-| Disoz      | **Blaidd**   | ?   | NPC     |
-|            | **Plaidd**   | 6   | 25 / 70 |
-| Sparch     | **Faolin**   | 6   | 25 / 70 |
-| Adro       | **Garaele**  | 6   | 25 / 70 |
-| Dudu       | **Ulduam**   | 6   | 25 / 70 |
-| Gólem      | **Ymerlith** | 6   | 44 / 70 |
-
 # INFO
+
+- VOTE Next Session: https://strawpoll.com/GJn44mjamnz
+- [[quest-log|Quest Log]]
+- [[kajarendeles|Kajarendelés]]
+
+| **Player** | PC           | LVL | XP      | Status |
+| ---------- | ------------ | --- | ------- | ------ |
+| Bohi       | **Arthas**   | 6   | 40 / 70 | 🟢     |
+| Disoz      | **Blaidd**   | -   | -       | 🤖     |
+|            | **Plaidd**   | 6   | 25 / 70 | 🟢     |
+| Sparch     | **Faolin**   | 6   | 25 / 70 | 🟢     |
+| Adro       | **Garaele**  | 6   | 25 / 70 | 🟢     |
+| Dudu       | **Ulduam**   | 6   | 25 / 70 | 🟢     |
+| Gólem      | **Ymerlith** | 6   | 44 / 70 | 🟢     |
 
 > [!info] Standard v5
 > - **15:00** : kapunyitás
@@ -28,15 +30,11 @@ title: Campaign Hub
 > - **16:00 - 19:00** : 3 h game
 > - **19:00 - 20:00** : 1 h pihi
 > - **20:00 - 23:00** : 3 h game
->   
->   **XP szabályok**
+
+>[!info]  **XP szabályok**
 > - Session kihagyás = 0 XP.
 > - Token deadline után minden perc késés = -1% XP
 > - GM tehermentesítés  = +10% XP (*pl slander, session log, etc. - Tárgyalás tárgyát képezheti a feladat után járó pontos %.*)
-
-- VOTE Next Session: https://strawpoll.com/GJn44mjamnz
-- [[quest-log|Quest Log]]
-- [[kajarendeles|Kajarendelés]]
 
 ---
 
